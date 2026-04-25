@@ -1,0 +1,16 @@
+{
+  "id": "vinjarvis/anime-face-dcgan-training",
+  "title": "Anime Face DCGAN Training",
+  "code_file": "kaggle_entry.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "splcher/animefacedataset"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
